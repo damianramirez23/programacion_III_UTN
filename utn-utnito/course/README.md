@@ -14,6 +14,7 @@ Contenido esperado:
 Clases actuales:
 
 - [`class-01-setup-hello-world`](./class-01-setup-hello-world)
+- [`class-02-html-login-basics`](./class-02-html-login-basics)
 
 ## English
 
@@ -29,3 +30,4 @@ Expected content:
 Current classes:
 
 - [`class-01-setup-hello-world`](./class-01-setup-hello-world)
+- [`class-02-html-login-basics`](./class-02-html-login-basics)
