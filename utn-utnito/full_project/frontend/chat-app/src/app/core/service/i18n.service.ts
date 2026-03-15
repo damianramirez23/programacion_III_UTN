@@ -50,6 +50,12 @@ export class I18nService {
       'chat.openMenuAria': 'Open menu',
       'chat.closeMenuAria': 'Close menu',
       'chat.defaultUserName': 'UTN User',
+      'chat.error.generic': 'An unexpected error occurred. Please try again.',
+      'chat.error.CHAT_MESSAGE_TOO_LONG': 'Your message exceeds the maximum allowed.',
+      'chat.error.CHAT_MESSAGE_EMPTY': 'Your message cannot be empty.',
+      'chat.error.CHAT_MESSAGE_INVALID': 'Your message format is invalid.',
+      'chat.error.VALIDATION_ERROR': 'Please review your input and try again.',
+      'chat.error.BAD_REQUEST': 'The request could not be processed.',
     },
     es: {
       'login.welcome': 'Bienvenido a {agentName}',
@@ -90,6 +96,12 @@ export class I18nService {
       'chat.openMenuAria': 'Abrir menú',
       'chat.closeMenuAria': 'Cerrar menú',
       'chat.defaultUserName': 'Usuario UTN',
+      'chat.error.generic': 'Ocurrió un error inesperado. Intenta nuevamente.',
+      'chat.error.CHAT_MESSAGE_TOO_LONG': 'Tu mensaje supera el máximo permitido.',
+      'chat.error.CHAT_MESSAGE_EMPTY': 'Tu mensaje no puede estar vacío.',
+      'chat.error.CHAT_MESSAGE_INVALID': 'El formato del mensaje no es válido.',
+      'chat.error.VALIDATION_ERROR': 'Revisa los datos ingresados e intenta nuevamente.',
+      'chat.error.BAD_REQUEST': 'No se pudo procesar la solicitud.',
     },
   };
 

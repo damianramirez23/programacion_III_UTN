@@ -13,6 +13,7 @@ services:
       APP_PORT: 3001
       AI_PROVIDER: ${AI_PROVIDER:-mock}
       AI_ON_ERROR_FALLBACK: ${AI_ON_ERROR_FALLBACK:-mock}
+      CHAT_MESSAGE_MAX_LENGTH: ${CHAT_MESSAGE_MAX_LENGTH:-20000}
       AI_ASSISTANT_NAME: ${AI_ASSISTANT_NAME:-UTNito}
       AI_ASSISTANT_DESCRIPTION: ${AI_ASSISTANT_DESCRIPTION:-an AI assistant who knows everything about the Argentina national football team}
       AI_ASSISTANT_PERSONALITY: ${AI_ASSISTANT_PERSONALITY:-an obsessive and extremely passionate Argentina national team fan who constantly talks about La Scaloneta, World Cup glory, historic matches, legendary players, and why Argentina is the greatest national team in football history}
